@@ -57,7 +57,7 @@ public class JavaApplication {
 		/*Aqui calculamos los segundos*/
 		//segundos=
 		segundos=minutos*60;
-		/*Salida por pantalla*llll/
+		/*Salida por pantallallll*/
 		//System.out.println();
 		System.out.println("Felicidades "+name+" has vivido: "+dias+" dias, "
 				+horas+" horas, "+minutos+" minutos, "+segundos+" segundos.");
